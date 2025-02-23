@@ -1,0 +1,2 @@
+# .github
+Mendo app 
