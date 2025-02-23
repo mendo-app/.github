@@ -1,7 +1,7 @@
 # .github
 Mendo app 
 
-# Mendo - A Social Media Platform for Short-Form Video Edits
+# Mendo - A Social Media Platform for Short Form Edits
 
 Mendo is a social media platform designed for creators of short-form video edits. Whether you're creating fast-paced montages, meme-style edits, or quick video remixes, Mendo is the perfect place to share your creativity, discover new editing styles, and engage with a community of fellow creators. Mendo makes it easy to upload, showcase, and interact with short video edits that make an impact in just a few seconds.
 
